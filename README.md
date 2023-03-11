@@ -1,2 +1,2 @@
 # notes-are-hard
-A note taking site using Express,js and Heroku
+A note taking site using Express.js and Heroku
